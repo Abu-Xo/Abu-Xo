@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abu-Xo
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN STACK
+- 🌱 I’m currently learning Front-end Developer
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ...
 
